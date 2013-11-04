@@ -3,4 +3,4 @@ developer=SoBiohazardous1
 developer=Delocuro1
 developer=triplg31
 developer=thewerty11241
-developer=Psioptic1
+developer=Psioptic11
